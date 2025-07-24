@@ -1,4 +1,4 @@
-# 🎵 Spotify Music Analysis – CSC1109 Project
+# 🎵 Spotify Music Analysis
 
 ## Overview
 
